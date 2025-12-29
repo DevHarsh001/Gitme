@@ -1,1 +1,1 @@
-I am building high quality github readme creator, Support me witht he journey
+I am building high quality github readme creator, Support me with the journey
